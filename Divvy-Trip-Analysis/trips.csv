@@ -1519,3 +1519,5 @@ trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name
 10406356,6/30/2016 5:35,6/30/2016 5:40,872,279,199,Wabash Ave & Grand Ave,26,McClurg Ct & Illinois St,Subscriber,Male,1989
 10406250,6/30/2016 1:57,6/30/2016 2:02,4753,337,144,Larrabee St & Webster Ave,223,Clifton Ave & Armitage Ave,Subscriber,Male,1990
 10406143,6/30/2016 0:15,6/30/2016 0:26,5116,630,117,Wilton Ave & Belmont Ave,257,Lincoln Ave & Waveland Ave,Subscriber,Male,1977
+Hello,World,How,Are,You
+
